@@ -70,7 +70,7 @@
             this.buttonOpen.Name = "buttonOpen";
             this.buttonOpen.Size = new System.Drawing.Size(75, 23);
             this.buttonOpen.TabIndex = 2;
-            this.buttonOpen.Text = "打开文件";
+            this.buttonOpen.Text = "浏览文件";
             this.buttonOpen.UseVisualStyleBackColor = true;
             this.buttonOpen.Click += new System.EventHandler(this.buttonOpen_Click);
             // 
